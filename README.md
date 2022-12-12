@@ -9,9 +9,13 @@ Simple Lightweight Clearlag plugin
   - #PASSIVE
   - #COMMON
   - ALL ENTITY TYPES
+
+
 /spawnentities
   - ALL ENTITY TYPES
   - spawn multiple entities at once
+
+
 /clearall
   - #MONSTER
   - #NAMED
@@ -20,8 +24,12 @@ Simple Lightweight Clearlag plugin
   - #PASSIVE
   - #COMMON
   - ALL ENTITY TYPES
+
+
 /clearchat
   - clears chat
+
+
 /plugin
   - a simple block for /pl
   - of ops, replaces the chat message with a plugin menu
