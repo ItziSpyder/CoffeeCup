@@ -34,3 +34,7 @@ Simple Lightweight Clearlag plugin
   - a simple block for /pl
   - of ops, replaces the chat message with a plugin menu
 
+/clearlag
+  - clear lag timer
+  - clear lag type customizable
+  - clear lag interval customizable
